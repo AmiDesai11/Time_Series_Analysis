@@ -12,5 +12,6 @@
    iii.Residual
 5) Detecting Cyclic Variations
 # Experiment 3: Implementation of Data Wrangling and Preparation for Time Series Data.
+# Experiment 4: Implement various Smoothing Methods(Simple exponential, doubleexponential and Triple exponential) on a given dataset.
 # Experiment 5: Making Data Stationary: Plots, Summary Statistics, Statistics Unit Root Tests, Augmented Dickey –Fuller Test.
 # Experiment 6: Comparative Analysis of Autoregressive,Moving AverageandAutoregressive Integrated Moving Average on a given dataset.
